@@ -28,10 +28,9 @@
     "relude": "^0.59.0"
   },
   "devDependencies": {
-    "@glennsl/bs-jest": "^0.5.1",
-    "bs-bastet": "^1.2.5",
-    "bs-platform": "^7.2.2",
-    "relude": "^0.59.0"
+    "bs-bastet": "https://github.com/adnelson/bastet.git#rescript-11.0",
+    "relude": "https://github.com/adnelson/relude.git#rescript-11.0",
+    "rescript": "^11"
   },
   "jest": {
     "verbose": false,
